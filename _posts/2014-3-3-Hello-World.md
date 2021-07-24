@@ -6,5 +6,3 @@ published: true
 
 # This is my first blog with joyckll
 ## Congratulations
-
-
