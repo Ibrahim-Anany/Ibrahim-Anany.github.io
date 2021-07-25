@@ -1,11 +1,10 @@
 ---
 layout: post
-title: first bolg in gitHub to keep track of what I learn
+title: ''
 published: true
 header: hema
 ---
 
-# This is my first blo##
-
-
-## Congratulations
+### السلام عليكم شئ عظيم ان تحاول ان تلخص ما تحاول ان تتعلمه واليوم بأذن الله اول ايام تلخيصي لمنهج ال
+                               ## cyber_ops
+### وهو اول كورس اذاكره من تلقاء نفسي واريد من خلاله اثبات الذات لنفسي ثم لمن حولي وهي كلها محاولات
